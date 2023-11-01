@@ -26,7 +26,11 @@ export default function Article({ article }) {
         {article.body.charAt(0).toUpperCase()}
         {article.body.slice(1)}
       </p>
-      <a href={author.website}>{author && <p>By: {author.name}</p>}</a>
+      {author && (
+        <a href={author.website}>
+          <p>By: {author.name}</p>
+        </a>
+      )}
       <br />
     </div>
   );
