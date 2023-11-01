@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp3170-fetch-data/static/css/main.7d1c153a.css",
+    "main.js": "/comp3170-fetch-data/static/js/main.8825bb26.js",
+    "index.html": "/comp3170-fetch-data/index.html",
+    "main.7d1c153a.css.map": "/comp3170-fetch-data/static/css/main.7d1c153a.css.map",
+    "main.8825bb26.js.map": "/comp3170-fetch-data/static/js/main.8825bb26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1c153a.css",
+    "static/js/main.8825bb26.js"
+  ]
+}
